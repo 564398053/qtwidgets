@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/msg_failed_icon@2x.png</file>
+        <file>image/msg_info_icon@2x.png</file>
+        <file>image/msg_success_icon@2x.png</file>
+    </qresource>
+</RCC>
